@@ -1,0 +1,133 @@
+# depslib dependency file v1.0
+1521671233 source:c:\users\neel\opengl\globe\lighting_maps.cpp
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<glm/gtc/constants.hpp>
+	"Shader.h"
+	"Camera.h"
+	"Texture.h"
+	"InputHandler.h"
+	"stb_image.h"
+	"VertexBufferArray.h"
+	<iostream>
+	"sphere.h"
+
+1459023783 c:\users\neel\glew-1.13.0\include\gl\glew.h
+	<stddef.h>
+	<inttypes.h>
+	<stdint.h>
+	<inttypes.h>
+	<Availability.h>
+	<OpenGL/glu.h>
+	<GL/glu.h>
+
+1459023395 c:\users\neel\glfw\include\glfw\glfw3.h
+	<stddef.h>
+	<OpenGL/gl3.h>
+	<OpenGL/gl3ext.h>
+	<OpenGL/gl.h>
+	<OpenGL/glu.h>
+	<GL/glcorearb.h>
+	<GLES/gl.h>
+	<GLES/glext.h>
+	<GLES2/gl2.h>
+	<GLES2/gl2ext.h>
+	<GLES3/gl3.h>
+	<GLES3/gl2ext.h>
+	<GLES3/gl31.h>
+	<GLES3/gl2ext.h>
+	<GL/gl.h>
+	<GL/glext.h>
+	<GL/glu.h>
+
+1500239547 c:\users\neel\opengl\globe\include\shader.h
+	<iostream>
+	<fstream>
+	<string>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1499635022 c:\users\neel\opengl\globe\include\camera.h
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"Shader.h"
+	<iostream>
+
+1521589022 c:\users\neel\opengl\globe\include\texture.h
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	"stb_image.h"
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	<iostream>
+
+1499634771 c:\users\neel\opengl\globe\include\stb_image.h
+	"stb_image.h"
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdlib.h>
+	<string.h>
+	<limits.h>
+	<math.h>
+	<stdio.h>
+	<assert.h>
+	<stdint.h>
+	<emmintrin.h>
+	<intrin.h>
+	<arm_neon.h>
+
+1515165186 c:\users\neel\opengl\globe\include\inputhandler.h
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+
+1501343244 c:\users\neel\opengl\globe\include\vertexbufferarray.h
+	<GL/glew.h>
+	<GLFW/glfw3.h>
+	<glm/glm.hpp>
+	<glm/gtc/matrix_transform.hpp>
+	<glm/gtc/type_ptr.hpp>
+	"Shader.h"
+	"Camera.h"
+	"Texture.h"
+	"InputHandler.h"
+	"stb_image.h"
+	<iostream>
+
+1504476147 c:\users\neel\opengl\globe\sphere.h
+	<iostream>
+	<fstream>
+
+1512836596 source:c:\users\neel\opengl\globe\sphere.cpp
+	"sphere.h"
+
+1499605004 source:c:\users\neel\opengl\globe\src\inputhandler.cpp
+	"InputHandler.h"
+
+1499433694 source:c:\users\neel\opengl\globe\src\shader.cpp
+	"Shader.h"
+
+1499634942 source:c:\users\neel\opengl\globe\src\stb_image.cpp
+	"stb_image.h"
+
+1499627920 source:c:\users\neel\opengl\globe\src\texture.cpp
+	"Texture.h"
+
+1499647484 source:c:\users\neel\opengl\globe\src\vertexbufferarray.cpp
+	"VertexBufferArray.h"
+
